@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="歡迎來到我的花園!" />
         <p className="description">
-         <code>歡迎在小小的花園裡面挖呀挖呀挖</code>
+         <code>在小小的花園裡面挖呀挖呀挖</code>
         </p>
       </main>
 
